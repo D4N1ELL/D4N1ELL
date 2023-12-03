@@ -15,5 +15,5 @@
 <br />
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=D4N1ELL&count_private&show_icons=true&include_all_commits=true&count_private=true&theme=dark&layout=compact" alt="GitHub Stats for Daniel" width="700">
+<img src="https://github-readme-stats.vercel.app/api?username=D4N1ELL&count_private&show_icons=true&include_all_commits=true&count_private=true&theme=dark&layout=compact" alt="GitHub Stats for Daniel" width="500">
 
